@@ -106,5 +106,5 @@ else:
 
 ## 📱 Contacto y Redes
 
-- **Correo Corporativo:** `hmartol1802@g.educaand.es`
+- **Correo Corporativo:** [hmartol1802@g.educaand.es](mailto:hmartol1802@g.educaand.es)
 - **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/hugo-martín/)
