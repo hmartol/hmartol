@@ -1,4 +1,4 @@
-## Hola, mi nombre es Hugo Martín Toledano 👋
+# Hola, mi nombre es Hugo Martín Toledano 👋
 ### Estudiante de Desarrollo de Aplicaciones Web
 
 > *"Si algo puede hacerse más simple, rápido y seguro, todavía se puede mejorar."*
@@ -8,11 +8,11 @@
 ## 👨‍🎓 Sobre mí
 
 Estoy cursando el curso de formación profesional de **Desarrollo Aplicaciones Web**. Siempre he querido dedicar mi vida a la informática, sobre todo a la parte de **ciberseguridad** y el **entorno cliente**, 
-ya que me gustaría tener mi entorno de trabajo, tanto como el de mis clientes cifrado y protegido, por lo tanto quiero adentrarme en estas ramas y poder llegar a entenderlas y manejarlas al 100%. Aunque no haya partido de una base como el grado medio de Sistemas Microinformáticos y Redes, tengo muchas ganas de seguir aprendiendo y salir al mercado laboral lo antes posible.
+ya que me gustaría tener mi entorno de trabajo, tanto como el de mis clientes cifrado y protegido, por lo tanto quiero adentrarme en estas ramas y poder llegar a entenderlas y manejarlas al 100%. Aunque no haya partido de una base como el grado medio de Sistemas Microinformáticos y Redes, al comenzar el ciclo pensaba que ~~necesitaba tener conocimientos previos de sistemas~~, pero he podido ir adquiriéndolos durante DAW y tengo muchas ganas de seguir aprendiendo.
 
 Siempre intento resolver los problemas o códigos en el menor tiempo y código posible de forma sencilla y eficiente, ya que considero que es muy importante la optimización del trabajo para destacar como desarrollador.
 
-Actualmente, estoy en proceso de desarrollar un negocio sobre diseño web aplicando mis conocimientos básicos y aprovechando la experiencia aprendida en la empresa que cursé mis prácticas el año pasado, Resoluzión360 S.L., donde ofreceré servicios de **Landing Pages**, configuración de **Google MyBusiness** para empresas necesitadas y otros servicios relacionados.
+Actualmente, estoy en proceso de desarrollar un negocio sobre diseño web aplicando mis conocimientos básicos y aprovechando la experiencia adquirida en la empresa donde realicé mis prácticas el año pasado, Resoluzión360 S.L., donde ofreceré servicios de **Landing Pages**, configuración de **Google MyBusiness** para empresas necesitadas y otros servicios relacionados.
 
 ---
 
@@ -107,4 +107,4 @@ else:
 ## 📱 Contacto y Redes
 
 - **Correo Corporativo:** `hmartol1802@g.educaand.es`
-- **LinkedIn:** [[linkedin.com/in/mi-usuario](https://www.linkedin.com/in/hugo.martín-2035823a4/](https://linkedin.com)
+- **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/hugo-martín/)
