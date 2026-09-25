@@ -85,7 +85,7 @@ También utilizo comandos básicos de Git como `git status`, `git add` y `git co
 
 ```python
 
-password = input("Introduce una contraseña: ")
+password = input("Introduce una contraseña:")
 
 tiene_numero = False
 tiene_mayuscula = False
