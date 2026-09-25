@@ -68,7 +68,7 @@ Algunas de las herramientas que utilizo habitualmente son:
 - Navegadores con herramientas de desarrollo (Brave, Chrome...)
 - Terminal de Windows
 
-También utilizo comandos básicos de Git como `git status`, `git add` y `git commit` para trabajar con mis repositorios.
+También uso comandos básicos de Git como `git status`, `git add` y `git commit`.
 
 ---
 
