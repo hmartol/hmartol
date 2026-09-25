@@ -25,7 +25,7 @@ En mi primer año en este grado superior, aprendí principalmente **Python**, y 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-EDA31A?style=for-the-badge&logo=git&logoColor=white)
 ![WINDOWS](https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Lo que más me interesa actualmente
